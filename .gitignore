@@ -1,1 +1,6 @@
+# js/node
 node_modules
+
+# Vuepress
+.temp
+.cache
