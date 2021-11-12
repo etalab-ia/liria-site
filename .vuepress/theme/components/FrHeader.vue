@@ -19,20 +19,36 @@
               <p class="fr-header__service-tagline">{{ $site.description }}</p>
             </div>
           </div>
-          <div class="fr-header__tools">
-            <div class="fr-header__tools-links">
-              <ul class="fr-links-group">
-                <li>
-                  <a class="fr-link" href="/presentation">Présentation</a>
-                </li>
-                <li><a class="fr-link" href="/actualites">Actualités</a></li>
-                <li>
-                  <a class="fr-link" href="/documentation">Documentation</a>
-                </li>
-              </ul>
-            </div>
-          </div>
         </div>
+      </div>
+    </div>
+    <div class="fr-header__menu fr-modal" id="header-navigation">
+      <div class="fr-container">
+        <button
+          class="fr-link--close fr-link"
+          aria-controls="header-navigation"
+        >
+          Fermer
+        </button>
+        <div class="fr-header__menu-links"></div>
+        <nav
+          class="fr-nav"
+          id="navigation-832"
+          role="navigation"
+          aria-label="Menu principal"
+        >
+          <ul class="fr-nav__list">
+            <li class="fr-nav__item">
+              <a class="fr-nav__link" href="/presentation">Présentation</a>
+            </li>
+            <li class="fr-nav__item">
+              <a class="fr-nav__link" href="/actualites">Actualités</a>
+            </li>
+            <li class="fr-nav__item">
+              <a class="fr-nav__link" href="/documentation">Documentation</a>
+            </li>
+          </ul>
+        </nav>
       </div>
     </div>
   </header>
