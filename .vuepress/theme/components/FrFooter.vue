@@ -13,7 +13,7 @@
         <div class="fr-footer__content">
           <p class="fr-footer__content-desc">
             Le code source est ouvert et les contributions sont bienvenues.
-            <a href="https://github.com/etalab/suivi-ouverture/"
+            <a href="https://github.com/etalab-ia/ocrxtract-site/"
               >Voir le code source</a
             >
           </p>
