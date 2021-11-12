@@ -1,6 +1,6 @@
 const { path } = require("@vuepress/utils");
 
 module.exports = {
-  title: "OCR Xtract",
+  title: "DoctoScan",
   theme: path.resolve(__dirname, "./theme"),
 };

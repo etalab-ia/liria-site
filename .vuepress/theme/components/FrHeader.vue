@@ -26,6 +26,9 @@
                   <a class="fr-link" href="/presentation">Présentation</a>
                 </li>
                 <li><a class="fr-link" href="/actualites">Actualités</a></li>
+                <li>
+                  <a class="fr-link" href="/documentation">Documentation</a>
+                </li>
               </ul>
             </div>
           </div>
