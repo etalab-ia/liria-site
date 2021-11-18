@@ -2,7 +2,7 @@
 title: Actualités
 ---
 
-## Nos événements 
+## Nos événements et actus
 
 - **[18/11/2021]** Initiallement nommé **OCR-Xtract**, la solution a pris le nouveau nom de **LirIA**
 
