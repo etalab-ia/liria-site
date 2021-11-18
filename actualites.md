@@ -4,7 +4,7 @@ title: Actualités
 
 ## Nos événements 
 
-- **[18/11/2021]** Initiallement nomme **OCR-Xtract**, la solution a pris le nouveau nom de **LirIA**
+- **[18/11/2021]** Initiallement nommé **OCR-Xtract**, la solution a pris le nouveau nom de **LirIA**
 
 - **[07/10/2021] Open Lab #1** : retrouver le support de présentation [ici](https://speakerdeck.com/etalabia/openlab-ocr-xtract-07102021)
 
