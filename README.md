@@ -4,6 +4,9 @@
 
 ---
 sudo npm install --global yarn
+---
+
+---
 export PATH="$PATH:/opt/yarn-[version]/bin"
 ---
 
