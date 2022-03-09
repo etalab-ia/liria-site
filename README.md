@@ -2,19 +2,17 @@
 
 ### Install Yarn
 
----
+```
 sudo npm install --global yarn
----
-
----
 export PATH="$PATH:/opt/yarn-[version]/bin"
----
+```
 
 ### Install vuepress
 
----
+```
+cd liria-site
 yarn install
----
+```
 
 ### dev
 
